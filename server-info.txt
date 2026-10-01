@@ -1,4 +1,5 @@
 Serveur : SRV-01
 OS : Ubuntu Server 24.04
-Role : Serveur applicatif
+Role : Serveur Web
 Environnement : Production
+IP : 192.168.10.20
