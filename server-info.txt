@@ -3,3 +3,4 @@ OS : Ubuntu Server 24.04
 Role : Serveur Web
 Environnement : Production
 IP : 192.168.10.20
+Service : Apache2
