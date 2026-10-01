@@ -1,6 +1,6 @@
 Serveur : SRV-01
 OS : Ubuntu Server 24.04
-Role : Serveur Web
+Role : Serveur Web Nginx
 Environnement : Production
 IP : 192.168.10.20
 Service : Apache2
